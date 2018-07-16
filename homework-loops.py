@@ -9,12 +9,14 @@
 #     print(x)
 
 #Exercise 3
-#
+# #
 # numbers = [34, 23, 546, 1]
 # totalSum= 0
 # for x in numbers:
 #     totalSum += x
 # print(totalSum)
+
+#
 
 #Exercise 4
 
@@ -25,10 +27,10 @@
 #
 
 # Extra-ish Credit
-originalPassword = input("What is your password?")
-passwordToCheck = input("Confirm Password")
-
-
-while( passwordToCheck != originalPassword or passwordToCheck == "q"):
-    passwordToCheck = input( "What is your password? Or press 'q' to quit")
-
+# originalPassword = input("What is your password?")
+# passwordToCheck = input("Confirm Password")
+#
+#
+# while( passwordToCheck != originalPassword or passwordToCheck == "q"):
+#     passwordToCheck = input( "What is your password? Or press 'q' to quit")
+#
